@@ -17,16 +17,16 @@
   
 ### Create GetFile Processor
 
-Input Directory: /opt/input
-File Filter: addresses.csv
-Keep Source File: True
+    Input Directory: /opt/input
+    File Filter: addresses.csv
+    Keep Source File: True
 
-In Relationships tab select terminate
+    In Relationships tab select terminate
 
-APPLY
+    APPLY
 
 ### Create PutFile Processor
 
-Directory: /opt/output
-Conflict Resolution Strategy: replace
-Create Missing Directories: false
+    Directory: /opt/output
+    Conflict Resolution Strategy: replace
+    Create Missing Directories: false
