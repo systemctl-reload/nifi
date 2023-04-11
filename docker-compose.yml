@@ -2,7 +2,7 @@ version: '3'
 services:
   nifi:
     user: root
-    image: docker.repository.bog.ge/apache/nifi:1.18.0
+    image: apache/nifi:1.18.0
     container_name: nifi
     restart: unless-stopped
     network_mode: bridge
