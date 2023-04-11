@@ -8,7 +8,7 @@
     
     mkdir output
     
-    docker-compose up -d
+    sudo docker-compose up -d
     
 ### Download csv file
     
