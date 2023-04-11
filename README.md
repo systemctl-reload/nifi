@@ -1,5 +1,5 @@
-# git clone https://github.com/systemctl-reload/nifi.git
+### git clone https://github.com/systemctl-reload/nifi.git
 
-cd nifi
+### cd nifi
 
-docker-compose up -d
+### docker-compose up -d
