@@ -12,4 +12,8 @@
     mkdir input
     mkdir output
     
+### Download csv file
+    
+    cd input
+    wget https://people.sc.fsu.edu/~jburkardt/data/csv/addresses.csv
   
