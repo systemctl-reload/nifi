@@ -3,3 +3,11 @@
     cd nifi
 
     docker-compose up -d
+
+
+### create input and output folders
+
+    mkdir input
+    mkdir output
+    
+  
